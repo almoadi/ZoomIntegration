@@ -1,0 +1,6 @@
+@ZoomIntegration_HostAddress = http://localhost:5088
+
+GET {{ZoomIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
