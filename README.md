@@ -1,3 +1,6 @@
+## Features
+- Zoom OAuth authentication
+
 ## Configuration
 
 Before running the application, you'll need to configure your `appsettings.json` file to include your `ClientID`, `ClientSecret`, and `account_id` values.
